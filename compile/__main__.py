@@ -2,7 +2,7 @@ import rollbar
 import re
 
 
-rollbar.init('4594787cdcb848a9b6eee3758ec0507e')
+rollbar.init('2cd4c1d90e7b40e2bfd3cf4efc81e5e9')
 
 
 def parse(code):
