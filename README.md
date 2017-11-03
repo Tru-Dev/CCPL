@@ -1,5 +1,5 @@
 # CCPL
-Completely Customizable Programming Language aims to allow all programmers to snap code together, regardless of language (spec).
+Completely Customizable Programming Language will allow language interoperability.
 
 #
 
