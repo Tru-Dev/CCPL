@@ -1,6 +1,6 @@
 import rollbar
 import re
-
+import langconfig
 
 rollbar.init('2cd4c1d90e7b40e2bfd3cf4efc81e5e9')
 
@@ -43,10 +43,7 @@ def parse(code):
 
 
 test = r'''
-if x == "goodfory\"ouuu\"" {
-    lol = 2
-    foo = lol / 2 * 0.5
-}
+//
 '''
 
 
